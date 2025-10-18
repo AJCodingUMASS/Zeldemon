@@ -1,2 +1,11 @@
 # Zeldemon
-A text adventure game based on Pokémon and Zelda
+ - A text-adventure game inspired by Pokemon and Zelda.
+ - Programmed in Java and uses all concepts of Object-Oriented programming
+ - Features of the game include:
+     - monster battles with varying levels of difficulty
+     - final boss fight
+     - 2D array map
+     - different attacks
+     - critical hits
+     - rest areas to heal
+     - ability to learn new attacks.  
