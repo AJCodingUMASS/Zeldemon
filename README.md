@@ -9,3 +9,7 @@
      - critical hits
      - rest areas to heal
      - ability to learn new attacks.  
+
+To run file: 
+1. javac *.java
+2. java Main
